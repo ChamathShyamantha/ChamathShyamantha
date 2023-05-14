@@ -1,7 +1,7 @@
 ![MasterHead](https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif)
 <h1 align="center">Hi 👋, I'm Chamath Shyamantha</h1>
 <h3 align="center">An enthusiastic undergraduate student studying IT at SLIIT University. Passionate about technology and coding, I'm constantly exploring new horizons in the world of software development.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamathshyamantha&label=Profile%20views&color=b40e37&style=flat-square" alt="chamathshyamantha" /> </p>
