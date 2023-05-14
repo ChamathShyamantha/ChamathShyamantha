@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Twitter](Twitter)
 
-- 📫 How to reach me **chamathshyamantha@gmail.com**
+- 📫 How to reach me **chamathshymantha@gmail.com**
 
 - ⚡ Fun fact **I'm a Leisure time Gamer...**
 
