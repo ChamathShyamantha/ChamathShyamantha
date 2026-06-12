@@ -3,12 +3,25 @@
 </h1>
 
 <p align="center">
-  Bridging the gap between clean code and premium visual aesthetics. Focused on physics-based animations, fluid UI transitions, and high-performance web development.
+  Bridging the gap between clean code and premium visual aesthetics. Focused on physics-based animations, fluid UI transitions, AI integration, and high-performance development.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/chamath-shyamantha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### ⚡ Featured Builds
+
+<p align="center">
+  <a href="https://github.com/ChamathShyamantha/maya-ai-desktop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=maya-ai-desktop&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Maya AI Desktop" />
+  </a>
+  <a href="https://github.com/ChamathShyamantha/forza6-simulator-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=forza6-simulator-dashboard&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Forza 6 Simulator Dashboard" />
+  </a>
 </p>
 
 ---
@@ -21,7 +34,7 @@
 
 ---
 
-### 📊 Dynamic Coding Stats
+### 📊 Dynamic Stats
 
 <table align="center" style="border: none;">
   <tr>
@@ -44,5 +57,5 @@
 ### 🛠️ Tech & Creative Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,nodejs,framer,pr,ae" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,threejs,framer,python,cpp,c,java,html,css,git,figma,ps,pr,ae&perline=10" alt="My Skills" />
 </p>
