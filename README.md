@@ -83,22 +83,29 @@ I enjoy working at the intersection of engineering and creativity, combining cle
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathShyamantha&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity" />
+<!-- Contribution Graph -->
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathShyamantha&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true"
+alt="GitHub Activity Graph" />
 
-<br /><br />
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChamathShyamantha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathShyamantha&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<!-- GitHub Stats -->
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=ChamathShyamantha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400"
+alt="GitHub Statistics" />
 
-<br /><br />
+<!-- Top Languages -->
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChamathShyamantha&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400"
+alt="Top Languages" />
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamathShyamantha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<!-- Streak Stats -->
+<img width="70%"
+src="https://streak-stats.demolab.com/?user=ChamathShyamantha&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
 
 ### Let's Build Something Great.
 
