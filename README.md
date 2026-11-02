@@ -1,62 +1,113 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Chamath+|+Creative+Developer+%26+Editor;Bridging+Clean+Code+%26+Visual+Aesthetics;Building+Minimalist+AI+%26+UI+Experiences;IT+Undergrad+%40+SLIIT" alt="Typing SVG" />
-</h1>
+ <div align="center">
 
-<p align="center">
-  <b>Transforming complex logic into fluid, high-performance digital experiences.</b><br />
-  Focused on physics-based UI animations, AI desktop integrations, and precision video engineering.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hey%2C+I'm+Chamath+Shyamantha+%F0%9F%91%8B;Creative+Developer+%26+Video+Editor;Building+Intuitive+Digital+Experiences;Exploring+AI%2C+UI+Engineering+%26+Motion" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chamath-shyamantha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chamathshymantha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### Creative Developer · BSc (Hons) IT Graduate · Visual Storyteller
 
----
+*Turning ideas into thoughtfully engineered digital experiences.*
 
-### ⚡ Featured Architecture & Builds
+<br />
 
-<p align="center">
-  <a href="https://github.com/ChamathShyamantha/maya-ai-desktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=maya-ai-desktop&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Maya AI Desktop" />
-  </a>
-  <a href="https://github.com/ChamathShyamantha/forza6-simulator-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=forza6-simulator-dashboard&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Forza 6 Simulator Dashboard" />
-  </a>
-</p>
+<a href="https://chamathshyamantha.online">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/chamath-shyamantha">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:chamathshymantha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/ChamathShyamantha">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
-### 🎨 Technical & Creative Arsenal
+## 👨‍💻 About Me
 
-<p align="center">
-  <b>Core Engineering</b><br />
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java,html,css&perline=8" alt="Core Languages" />
-</p>
+I'm a **BSc (Hons) in Information Technology graduate from SLIIT**, passionate about building software that looks as good as it performs.
 
-<p align="center">
-  <b>Frameworks, Motion & 3D</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,threejs,framer,git&perline=8" alt="Frameworks and Motion" />
-</p>
+I enjoy working at the intersection of engineering and creativity, combining clean architecture, interactive interfaces, AI-powered solutions, and visual storytelling.
 
-<p align="center">
-  <b>Visual Engineering & Video Production</b><br />
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&perline=5" alt="Creative Suite" />
-</p>
+- 💻 Interested in frontend engineering, desktop applications, and AI integrations.
+- ✨ Passionate about minimalist UI, fluid animations, and thoughtful user experiences.
+- 🎬 Experienced in video editing, visual design, and creative production.
+- 🚀 Always exploring new technologies and building things that solve real problems.
+
+> **My approach:** Great software isn't just about what it does. It's also about how it feels to use.
 
 ---
 
-### 📈 Development Telemetry
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathShyamantha&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamathShyamantha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathShyamantha&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/ChamathShyamantha/maya-ai-desktop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=maya-ai-desktop&theme=github_dark&hide_border=true" alt="Maya AI Desktop" />
+</a>
+<a href="https://github.com/ChamathShyamantha/forza6-simulator-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=forza6-simulator-dashboard&theme=github_dark&hide_border=true" alt="Forza 6 Simulator Dashboard" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamathShyamantha&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Creative Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java,html,css&perline=8" alt="Programming languages" />
+
+<br />
+
+**Frameworks & Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,threejs,git&perline=8" alt="Frameworks and development tools" />
+
+<br />
+
+**Design, Motion & Video**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae&perline=8" alt="Creative tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathShyamantha&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity" />
+
+<br /><br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChamathShyamantha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamathShyamantha&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br /><br />
+
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamathShyamantha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Great.
+
+*Engineering meets creativity. Always learning, always building.*
+
+<a href="https://chamathshyamantha.online">🌐 chamathshyamantha.online</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=ChamathShyamantha&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
