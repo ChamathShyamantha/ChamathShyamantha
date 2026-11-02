@@ -42,18 +42,32 @@ I enjoy working at the intersection of engineering and creativity, combining cle
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Maya AI Desktop
+
+AI-powered desktop application.
 
 <a href="https://github.com/ChamathShyamantha/maya-ai-desktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=maya-ai-desktop&theme=github_dark&hide_border=true" alt="Maya AI Desktop" />
+<strong>Explore Repository →</strong>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ Forza 6 Simulator Dashboard
+
+Interactive simulator dashboard project.
+
 <a href="https://github.com/ChamathShyamantha/forza6-simulator-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamathShyamantha&repo=forza6-simulator-dashboard&theme=github_dark&hide_border=true" alt="Forza 6 Simulator Dashboard" />
+<strong>Explore Repository →</strong>
 </a>
 
-</div>
-
----
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack & Creative Tools
 
